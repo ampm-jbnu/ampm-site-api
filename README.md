@@ -12,6 +12,10 @@
 
 ## Running locally
 
+```
+./gradlew bootrun
+```
+
 ## Database configuration
 
 ## Working with this project in your IDE
@@ -21,6 +25,8 @@
 ### Steps
 
 ## Contributing
+
+Kim Gyu-Ho - kyuhokim12@gmail.com
 
 > Please check links below before commit.
 
