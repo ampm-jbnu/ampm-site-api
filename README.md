@@ -11,7 +11,6 @@
 전북대학교 소프트웨어공학과의 알고리즘 및 프로젝트 관련 학술동아리인 AM:PM의 API 서버 애플리케이션입니다.
 
 ## Running locally
-
 ```
 ./gradlew bootrun
 ```
@@ -26,7 +25,7 @@
 
 ## Contributing
 
-Kim Gyu-Ho - kyuhokim12@gmail.com
+Kim Gyu-Ho - kyuhokim12@gmail.com(GyuHo123)
 
 > Please check links below before commit.
 
@@ -34,7 +33,7 @@ Kim Gyu-Ho - kyuhokim12@gmail.com
 
 ## Meta
 
-Moon Bong-oh – bongohmoon@gmail.com
+Moon Bong-oh – bongohmoon@gmail.com(bonomoon)
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
